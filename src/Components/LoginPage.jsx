@@ -1,4 +1,6 @@
 import React from "react";
+import { Table } from "react-bootstrap";
+import "bootstrap/dist/css/bootstrap.min.css";
 export const LoginPage = () => {
   return (
     <div>
@@ -28,6 +30,7 @@ export const LoginPage = () => {
           <tr>
             <td>3</td>
             <td colSpan="2">Larry the Bird</td>
+
             <td>@twitter</td>
           </tr>
         </tbody>
