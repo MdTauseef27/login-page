@@ -29,8 +29,8 @@ export const LoginPage = () => {
           </tr>
           <tr>
             <td>3</td>
-            <td colSpan="2">Larry the Bird</td>
-
+            <td>Larry the Bird</td>
+            <td>Johnson</td>
             <td>@twitter</td>
           </tr>
         </tbody>
