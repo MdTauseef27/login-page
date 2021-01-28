@@ -5,10 +5,10 @@ export const LoginPage = () => {
   return (
     <div>
       <h1 style={{ textAlign: "center" }}>Student Information</h1>
-      <Table striped bordered hover>
+      <Table striped bordered hover variant="dark">
         <thead>
           <tr>
-            <th>#</th>
+            <th>Sr.no</th>
             <th>First Name</th>
             <th>Last Name</th>
             <th>Username</th>
